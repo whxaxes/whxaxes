@@ -1,3 +1,3 @@
-![whxaxes's GitHub stats](https://github-readme-stats.vercel.app/api?username=whxaxes&show_icons=true)
+![whxaxes's GitHub stats](https://github-readme-stats.vercel.app/api?username=whxaxes&show_icons=true&v=1)
 
 🚀🚀🚀🚀🚀
